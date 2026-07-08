@@ -22,7 +22,6 @@ public:
         for (int i = 1; i <= n; i++)
             pow10[i] = (pow10[i - 1] * 10) % MOD;
 
-        // Prefix preprocessing
         for (int i = 0; i < n; i++) {
             prefSum[i + 1] = prefSum[i];
             prefCnt[i + 1] = prefCnt[i];
