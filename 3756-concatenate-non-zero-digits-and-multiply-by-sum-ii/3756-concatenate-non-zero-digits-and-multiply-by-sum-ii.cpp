@@ -2,16 +2,6 @@ class Solution {
 public:
     static constexpr int MOD = 1'000'000'007;
 
-    long long modPow(long long a, long long b) {
-        long long res = 1;
-        while (b) {
-            if (b & 1) res = res * a % MOD;
-            a = a * a % MOD;
-            b >>= 1;
-        }
-        return res;
-    }
-
     vector<int> sumAndMultiply(string s, vector<vector<int>>& queries) {
         int n = s.size();
 
