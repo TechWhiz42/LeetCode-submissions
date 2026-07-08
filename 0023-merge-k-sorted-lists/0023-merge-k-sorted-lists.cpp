@@ -9,35 +9,41 @@
  * };
  */
 
- struct Compare {
-    bool operator()(ListNode* a, ListNode* b){
-        return a->val > b->val;
-    }
- };
-
 class Solution {
 public:
-    ListNode* mergeKLists(vector<ListNode*>& lists) {
-        priority_queue<ListNode*, vector<ListNode*>, Compare> minHeap;
-
-        for(ListNode* head : lists){
-            if(head)
-                minHeap.push(head);
-        }
-
+    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2){
         ListNode dummy(0);
         ListNode* tail = &dummy;
 
-        while(!minHeap.empty()){
-            ListNode* node = minHeap.top();
-            minHeap.pop();
-
-            tail->next = node;
+        while(list1 != nullptr && list2 != nullptr){
+            if(list1->val <= list2->val){
+                tail->next = list1;
+                list1 = list1->next;
+            } else {
+                tail->next = list2;
+                list2 = list2->next;
+            }
             tail = tail->next;
-            
-            if(node->next)
-                minHeap.push(node->next);
+        }
+        if(list1 != nullptr){
+            tail->next = list1;
+        }
+        if(list2 != nullptr){
+            tail->next = list2;
         }
         return dummy.next;
+    }
+
+    ListNode* mergeKLists(vector<ListNode*>& lists) {
+        if (lists.empty())
+            return nullptr;
+
+        ListNode* merged = nullptr;
+
+        for (ListNode* list : lists) {
+            merged = mergeTwoLists(merged, list);
+        }
+
+        return merged;
     }
 };
