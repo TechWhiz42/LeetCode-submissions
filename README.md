@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0001-two-sum) |
+| [0208-implement-trie-prefix-tree](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1331-rank-transform-of-an-array) |
 ## Dynamic Programming
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -112,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2685-count-the-number-of-complete-components) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
