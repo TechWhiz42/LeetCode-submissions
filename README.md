@@ -10,10 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1288-remove-covered-intervals](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0001-two-sum) |
+| [1331-rank-transform-of-an-array](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1331-rank-transform-of-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1331-rank-transform-of-an-array) |
 ## Math
 |  |
 | ------- |
