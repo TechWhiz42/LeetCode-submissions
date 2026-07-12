@@ -2,6 +2,7 @@
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
 <------------------------------------------------------------------------------------------------>
+```mermaid
 flowchart TD
 
 subgraph group_docs["Documentation"]
@@ -95,8 +96,8 @@ class node_p0001,node_p0015,node_p0238,node_p0347 toneMint
 class node_p0019,node_p0023,node_p0143 toneRose
 class node_p0094,node_p0105,node_p0236 toneIndigo
 class node_p0200,node_p2582,node_p2914 toneTeal
+```
 <------------------------------------------------------------------------------------------------>
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
