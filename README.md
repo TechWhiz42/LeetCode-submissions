@@ -223,4 +223,8 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0211-design-add-and-search-words-data-structure) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
