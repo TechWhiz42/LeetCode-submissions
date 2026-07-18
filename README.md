@@ -104,6 +104,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0212-word-search-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0212-word-search-ii) |
 | [1288-remove-covered-intervals](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1288-remove-covered-intervals) |
@@ -242,6 +243,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0078-subsets) |
 | [0212-word-search-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0212-word-search-ii) |
 ## Number Theory
 |  |
@@ -256,4 +258,8 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
