@@ -111,6 +111,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 | [1288-remove-covered-intervals](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -139,6 +140,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
@@ -188,6 +190,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0023-merge-k-sorted-lists) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
