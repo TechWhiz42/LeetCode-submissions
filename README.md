@@ -122,6 +122,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 | [0001-two-sum](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0001-two-sum) |
 | [0208-implement-trie-prefix-tree](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1331-rank-transform-of-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
@@ -142,6 +143,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 | [1288-remove-covered-intervals](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
@@ -161,6 +163,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 | [0211-design-add-and-search-words-data-structure](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0212-word-search-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -279,6 +282,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 ## Counting
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Bit Manipulation
@@ -298,4 +302,5 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
