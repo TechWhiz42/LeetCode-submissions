@@ -109,6 +109,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 | [0200-number-of-islands](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0212-word-search-ii) |
 | [0486-predict-the-winner](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1260-shift-2d-grid) |
@@ -136,6 +137,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1406-stone-game-iii) |
@@ -145,6 +147,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 | ------- |
 | [0200-number-of-islands](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0212-word-search-ii) |
+| [0542-01-matrix](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1301-number-of-paths-with-max-score) |
@@ -258,6 +261,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0994-rotting-oranges) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1559-detect-cycles-in-2d-grid) |
