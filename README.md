@@ -106,6 +106,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 | [0001-two-sum](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0130-surrounded-regions](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0212-word-search-ii) |
 | [0486-predict-the-winner](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0486-predict-the-winner) |
@@ -145,6 +146,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0212-word-search-ii) |
 | [0542-01-matrix](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0542-01-matrix) |
@@ -239,6 +241,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0547-number-of-provinces](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0547-number-of-provinces) |
@@ -262,6 +265,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0547-number-of-provinces) |
@@ -272,6 +276,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0547-number-of-provinces) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1559-detect-cycles-in-2d-grid) |
