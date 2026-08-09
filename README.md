@@ -144,6 +144,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 | [1140-stone-game-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Matrix
 |  |
@@ -188,6 +189,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 | [0212-word-search-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0212-word-search-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -208,6 +210,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0143-reorder-list) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
 | ------- |
@@ -350,6 +353,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Game Theory
 |  |
