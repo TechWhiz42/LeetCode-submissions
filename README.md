@@ -253,6 +253,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 | [0211-design-add-and-search-words-data-structure](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0547-number-of-provinces](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0572-subtree-of-another-tree) |
+| [0785-is-graph-bipartite](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0785-is-graph-bipartite) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3310-remove-methods-from-project) |
@@ -276,6 +277,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 | [0200-number-of-islands](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0994-rotting-oranges) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2685-count-the-number-of-complete-components) |
@@ -286,12 +288,14 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 | [0130-surrounded-regions](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0785-is-graph-bipartite) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0785-is-graph-bipartite) |
 | [2685-count-the-number-of-complete-components](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3310-remove-methods-from-project) |
 ## Design
@@ -372,4 +376,12 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 | ------- |
 | [1140-stone-game-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1406-stone-game-iii) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
