@@ -127,6 +127,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
@@ -351,6 +352,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 | ------- |
 | [0078-subsets](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0078-subsets) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
 | ------- |
