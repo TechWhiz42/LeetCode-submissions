@@ -1,45 +1,21 @@
 class Solution {
 public:
     bool stoneGameIX(vector<int>& stones) {
-        int n = stones.size();
-        if (n == 0)
-            return false;
-        int cnt = 0;
-        int cnt1 = 0;
-        int cnt2 = 0;
-        for (auto& stone : stones) {
-            if (stone % 3 == 0)
-                cnt++;
-            else if (stone % 3 == 1)
-                cnt1++;
+        int cnt[3] = {};
 
-            else if (stone % 3 == 2)
-                cnt2++;
-        }
-        if (cnt1 == 0 && cnt2 == 0) {
-            return false;
-        }
+        for (int x : stones)
+            ++cnt[x % 3];
 
-        if (cnt1 == 0) {
-            if (cnt2 >2 && cnt % 2 == 1)
-                return true;
-            return false;
-        }
+        int zero = cnt[0];
+        int one = cnt[1];
+        int two = cnt[2];
 
-        if (cnt2 == 0) {
-            if (cnt1 >2 && cnt % 2 == 1)
-                return true;
+        if (one == 0 && two == 0)
             return false;
-        }
 
-        if (cnt % 2 == 1){
-            if(abs(cnt1-cnt2) > 2){
-                return true;
-            } else {
-                return false;
-            }
-        } 
-        return true;
-        
+        if (one == 0 || two == 0)
+            return (one + two > 2 && zero % 2);
+
+        return zero % 2 ? abs(one - two) > 2 : true;
     }
 };
