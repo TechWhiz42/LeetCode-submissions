@@ -106,6 +106,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 | [0001-two-sum](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0212-word-search-ii) |
@@ -134,6 +135,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0208-implement-trie-prefix-tree](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -299,6 +301,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0547-number-of-provinces) |
