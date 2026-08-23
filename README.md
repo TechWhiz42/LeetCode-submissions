@@ -182,6 +182,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 ## Math
 |  |
 | ------- |
+| [0400-nth-digit](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0400-nth-digit) |
 | [0486-predict-the-winner](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1140-stone-game-ii) |
@@ -255,6 +256,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0400-nth-digit](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0400-nth-digit) |
 | [3312-sorted-gcd-pair-queries](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Tree
