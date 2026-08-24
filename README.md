@@ -187,6 +187,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 | [0877-stone-game](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2029-stone-game-ix) |
 | [2961-double-modular-exponentiation](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2961-double-modular-exponentiation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -205,6 +206,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 | [0208-implement-trie-prefix-tree](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0212-word-search-ii) |
+| [1927-sum-game](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -383,6 +385,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 ## Greedy
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -395,6 +398,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 | [0877-stone-game](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
