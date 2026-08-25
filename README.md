@@ -125,6 +125,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2029-stone-game-ix](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2029-stone-game-ix) |
+| [2560-house-robber-iv](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2560-house-robber-iv) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2961-double-modular-exponentiation](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2961-double-modular-exponentiation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -162,6 +163,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 | [1140-stone-game-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1406-stone-game-iii) |
+| [2560-house-robber-iv](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2560-house-robber-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Matrix
@@ -264,6 +266,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0400-nth-digit](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0400-nth-digit) |
+| [2560-house-robber-iv](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2560-house-robber-iv) |
 | [3312-sorted-gcd-pair-queries](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Tree
@@ -395,6 +398,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 | ------- |
 | [1927-sum-game](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2029-stone-game-ix) |
+| [2560-house-robber-iv](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2560-house-robber-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
