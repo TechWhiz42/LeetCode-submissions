@@ -214,6 +214,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 | [0211-design-add-and-search-words-data-structure](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0212-word-search-ii) |
 | [1927-sum-game](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -435,6 +436,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 ## Sliding Window
 |  |
 | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Nim Game
