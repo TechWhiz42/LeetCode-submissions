@@ -4,21 +4,21 @@ public:
         if (s.size() != t.size())
             return false;
 
-        unordered_map<char, char> mp;
-        unordered_map<char, char> rev;
+        vector<int> sToT(256, -1);
+        vector<int> tToS(256, -1);
 
         for (int i = 0; i < s.size(); i++) {
-            char a = s[i];
-            char b = t[i];
+            int a = s[i];
+            int b = t[i];
 
-            if (mp.count(a) && mp[a] != b)
+            if (sToT[a] != -1 && sToT[a] != b)
                 return false;
 
-            if (rev.count(b) && rev[b] != a)
+            if (tToS[b] != -1 && tToS[b] != a)
                 return false;
 
-            mp[a] = b;
-            rev[b] = a;
+            sToT[a] = b;
+            tToS[b] = a;
         }
 
         return true;
