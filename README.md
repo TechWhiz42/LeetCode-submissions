@@ -225,6 +225,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 | [3499-maximize-active-section-with-trade-i](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -242,6 +243,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 | ------- |
 | [0143-reorder-list](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0143-reorder-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -355,6 +357,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 | [1291-sequential-digits](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1291-sequential-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Backtracking
 |  |
 | ------- |
