@@ -126,6 +126,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 | [1559-detect-cycles-in-2d-grid](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2029-stone-game-ix](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2029-stone-game-ix) |
 | [2560-house-robber-iv](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2560-house-robber-iv) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2961-double-modular-exponentiation](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2961-double-modular-exponentiation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -184,6 +185,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 | [1288-remove-covered-intervals](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3536-maximum-product-of-two-digits) |
@@ -332,6 +334,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 | [0785-is-graph-bipartite](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0785-is-graph-bipartite) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2685-count-the-number-of-complete-components) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
 |  |
 | ------- |
