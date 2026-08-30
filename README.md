@@ -125,6 +125,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2029-stone-game-ix](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2560-house-robber-iv](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2560-house-robber-iv) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -409,6 +410,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 | ------- |
 | [1927-sum-game](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2560-house-robber-iv](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/2560-house-robber-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
