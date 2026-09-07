@@ -160,6 +160,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0213-house-robber-ii) |
@@ -221,6 +222,7 @@ class node_p0200,node_p2582,node_p2914 toneTeal
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0115-distinct-subsequences](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/TechWhiz42/LeetCode-submissions/tree/master/0211-design-add-and-search-words-data-structure) |
